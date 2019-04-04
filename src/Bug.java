@@ -8,7 +8,7 @@ public class Bug{
        MEDIUM,
        LOW
     };
-    private enum priority{
+    private enum severity{
         CRITICAL,
         MAJOR,
         MINOR
